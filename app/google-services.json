@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "277039965619",
+    "firebase_url": "https://multipleimageupload-97905.firebaseio.com",
+    "project_id": "multipleimageupload-97905",
+    "storage_bucket": "multipleimageupload-97905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277039965619:android:14a638f38715ff90",
+        "android_client_info": {
+          "package_name": "com.soropromo.multipleimageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277039965619-1diqlu0aledp33uhijshcl9sbto5fev6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soropromo.multipleimageupload",
+            "certificate_hash": "0da726a7689d73e6fe340976d9431d3c9a7cfdc3"
+          }
+        },
+        {
+          "client_id": "277039965619-83ol8vgmiqgdk2alrc78fek2pl2pbpeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGPpv-SRoCiqALCTlJ0useKTtIEeu0-bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277039965619-83ol8vgmiqgdk2alrc78fek2pl2pbpeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
